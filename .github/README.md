@@ -23,6 +23,7 @@ The Brazzaville FIR covers the entirety of Cameroon, Congo, Equatorial Guinea, G
 ## Key Airports
 
 - FCBB | Maya-Maya (Brazaville, Republic of Congo)
+- FEFF | M'Poko (Bangui, Central African Republic)
 - FGSL | Malabo (Malabo, Equatorial Guinea)
 - FKKD | Douala (Douala, Cameroon)
 - FOOL | Leon M'ba (Libreville, Gabon)
