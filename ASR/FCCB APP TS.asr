@@ -3,10 +3,11 @@
 // ##################################################################
 
 // Version 0.0.1
-// Update Date 06/04/2022
+// Update Date 28/08/2024
 
 // Changelog
 // v0.0.1 | FCCB APP TS Initial Setup
+// v0.0.2 | Fixes #7
 
 
 // ##################################################################
@@ -22,7 +23,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:5
+LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
