@@ -2,12 +2,12 @@
 //                 VATSSA | FIR FCCC | ASR | FOOG AD GR
 // ##################################################################
 
-// Version 0.0.1
-// Update Date 06/04/2022
+// Version 0.0.2
+// Update Date 28/08/2024
 
 // Changelog
 // v0.0.1 | FOOG AD GR Initial Setup
-
+// v0.0.2 | Fixes #7
 
 // ##################################################################
 //                 SETTINGS
@@ -25,8 +25,8 @@ SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:1000
-LEADER:-1
-SHOWLEADER:0
+LEADER:5
+SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:2

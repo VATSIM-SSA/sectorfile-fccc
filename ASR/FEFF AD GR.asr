@@ -3,10 +3,10 @@
 // ##################################################################
 
 // Version 0.0.1
-// Update Date 06/04/2022
+// Update Date 28/08/2024
 
 // Changelog
-// v0.0.1 | FEFF AD GR Initial Setup
+// v0.0.1 | Fixes #6
 
 
 // ##################################################################
@@ -16,8 +16,17 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Airports:FEFF:name
 Airports:FEFF:symbol
+Geo:FEFF Groundlayout Aprons:
+Geo:FEFF Groundlayout Buildings:
+Geo:FEFF Groundlayout Parking Positions:
+Geo:FEFF Groundlayout Runway:
+Geo:FEFF Groundlayout Runway Markings:
+Geo:FEFF Groundlayout Stopbars:
+Geo:FEFF Groundlayout Taxiways:
 Runways:FEFF 16-34:centerline
 Runways:FEFF 16-34:extended centerline 1
 Runways:FEFF 16-34:extended centerline 1 left base
@@ -38,8 +47,8 @@ SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:1000
-LEADER:-1
-SHOWLEADER:0
+LEADER:5
+SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:2
@@ -53,5 +62,4 @@ PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FEFF
 PLUGIN:Ground Radar plugin:ShowMapData:FEFF
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:HideMapData:
 PLUGIN:TopSky plugin:ShowMapData:FEFF

@@ -2,11 +2,13 @@
 //                 VATSSA | FIR FCCC | ASR | FOOG APP TS
 // ##################################################################
 
-// Version v0.1
-// Update Date 29/04/2022
+// Version 0.0.1
+// Update Date 28/08/2024
+
 
 // Changelog
-// v0.1 | FOOG APP TS Initial Setup
+// v0.0.1 | FOOG APP TS Initial Setup
+// v0.0.2 | Fixes #7
 
 
 // ##################################################################
@@ -21,8 +23,8 @@ SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:25000
-LEADER:-1
-SHOWLEADER:0
+LEADER:10
+SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:1

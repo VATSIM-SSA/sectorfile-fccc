@@ -1,3 +1,17 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | ASR | FCBB AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 28/08/2024
+
+// Changelog
+// v0.0.1
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
@@ -21,8 +35,8 @@ SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:1000
-LEADER:-1
-SHOWLEADER:0
+LEADER:5
+SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:2
