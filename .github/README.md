@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is the Sector File Development Repository for the fccc Sal FIR for use on Euroscope as part of the VATSIM online ecosystem. It's not meant to be used for any real world aviation capability.
+This is the Sector File Development Repository for the FCCC Brazzaville FIR for use on Euroscope as part of the VATSIM online ecosystem. It's not meant to be used for any real world aviation capability.
 
 ## Overview
 
