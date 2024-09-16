@@ -1,0 +1,8 @@
+==== Gabon Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[airport:fool:home|FOOL]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>fo-footer#Gabon}}

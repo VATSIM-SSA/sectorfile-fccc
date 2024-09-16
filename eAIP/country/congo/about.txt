@@ -1,0 +1,8 @@
+===== Congo, Republic of Information =====
+
+The Republic of the Congo, also known as Congo-Brazzaville, the Congo Republic or simply either Congo or the Congo, is a country located on the western coast of Central Africa to the west of the Congo River. It is bordered to the west by [[country:gabon:home|Gabon]], to its northwest by [[country:cameroon:home|Cameroon]] and its northeast by the [[country:car:home|Central African Republic]], to the southeast by the [[country:congo-dr:home|Democratic Republic of the Congo]], to its south by the [[country:angola:home|Angolan]] exclave of Cabinda and to its southwest by the Atlantic Ocean. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Republic_of_the_Congo|Wikipedia]].
+
+
+{{page>fc-footer#Congo, Republic of}}

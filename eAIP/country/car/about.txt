@@ -1,0 +1,8 @@
+===== Central African Republic Information =====
+
+The Central African Republic, or Centrafrique, is a landlocked country in Central Africa. It is bordered by Chad to the north, Sudan to the northeast, South Sudan to the southeast, the [[country:congo-dr:home|DR Congo]] to the south, the [[country:congo:home|Republic of the Congo]] to the southwest, and [[country:cameroon:home|Cameroon]] to the west. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Central_African_Republic|Wikipedia]].
+
+
+{{page>fe-footer#Central African Republic}}

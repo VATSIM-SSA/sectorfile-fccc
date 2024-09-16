@@ -1,0 +1,7 @@
+===== Equatorial Guinea Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[airport:fgsl:home|FGSL]]  | Malabo        | Malabo        | //In Development// | - |
+
+
+{{page>fg-footer#Equatorial Guinea}}

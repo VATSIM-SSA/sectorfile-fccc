@@ -1,0 +1,7 @@
+==== Central African Republic Airspace ====
+
+^ ICAO  ^ Name        ^ SSA Code  ^ Type    ^ Remarks ^
+| FCCC  | Brazzaville | [[airspace:fccc:home|FCCC]]  | -       | - |
+
+
+{{page>fe-footer#Central African Republic}}

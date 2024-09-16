@@ -1,0 +1,7 @@
+==== Cameroon Airspace ====
+
+^ ICAO  ^ Name        ^ SSA Code  ^ Type    ^ Remarks ^
+| FCCC  | Brazzaville | [[airspace:fccc:home|FCCC]]  | -       | - |
+
+
+{{page>fk-footer#Cameroon}}

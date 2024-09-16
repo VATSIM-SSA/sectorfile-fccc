@@ -1,0 +1,7 @@
+===== Congo, Republic of Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[airport:fcbb:home|FCBB]]  | Maya-Maya        | Brazzaville   | //In Development// | - |
+
+
+{{page>fc-footer#Congo, Republic of}}

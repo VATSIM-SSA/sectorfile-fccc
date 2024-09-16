@@ -1,0 +1,7 @@
+===== Central African Republic Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[airport:feff:home|FEFF]]  | M'Poko        | Bangui   | //In Development// | - |
+
+
+{{page>fe-footer#Central African Republic}}

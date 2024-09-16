@@ -1,0 +1,8 @@
+==== São Tomé & Princípe Airspace ====
+
+^ ICAO  ^ Name        ^ SSA Code  ^ Type    ^ Remarks ^
+| FCCC  | Brazzaville | [[airspace:fccc:home|FCCC]]  | -       | - |
+
+
+
+{{page>fp-footer#São Tomé & Princípe}}

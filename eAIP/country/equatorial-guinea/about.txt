@@ -1,0 +1,7 @@
+===== Equatorial Guinea Information =====
+
+Equatorial Guinea, officially the Republic of Equatorial Guinea, is a country on the west coast of Central Africa, with an area of 28,000 square kilometres (11,000 sq mi). Formerly the colony of Spanish Guinea, its post-independence name evokes its location near both the Equator and the Gulf of Guinea. As of 2021, the country had a population of 1,468,777. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Equatorial_Guinea|Wikipedia]].
+
+{{page>fg-footer#Equatorial Guinea}}

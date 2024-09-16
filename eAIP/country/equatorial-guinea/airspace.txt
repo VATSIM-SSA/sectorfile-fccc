@@ -1,0 +1,8 @@
+==== Equatorial Guinea Airspace ====
+
+^ ICAO  ^ Name        ^ SSA Code  ^ Type    ^ Remarks ^
+| FCCC  | Brazzaville | [[airspace:fccc:home|FCCC]]  | -       | - |
+
+
+
+{{page>fg-footer#Equatorial Guinea}}

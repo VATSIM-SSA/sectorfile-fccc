@@ -1,0 +1,8 @@
+==== Cameroon Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[airport:fkkd:home|FKKD]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>fk-footer#Cameroon}}

@@ -1,0 +1,8 @@
+==== São Tomé & Príncipe Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[airport:fpst:home|FPST]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>fp-footer#São Tomé & Príncipe}}
