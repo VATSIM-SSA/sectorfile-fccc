@@ -14,3 +14,6 @@ Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
+*VoiceChannels.txt
+*SectorFileProviderDescriptor.txt
+*euroscope_sector_providers.txt
