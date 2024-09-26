@@ -395,8 +395,8 @@ Window_APP_AltFilter=6450
 Airport_Elevation=33
 Airport_Radius=3
 
-Window_APP=1,475,680,600,275
-Window_APP_Rotation=270
+Window_APP=1,075,680,600,275
+Window_APP_Rotation=0
 Window_APP_Scale=10
 Window_APP_Extensions=1
 Window_APP_AltFilter=5033

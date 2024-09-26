@@ -17,7 +17,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Geo:FP Groundlayout Sao Tome:
+SECTORFILE:
+SECTORTITLE:
 Geo:FP Landmark Coast:
 SHOWC:1
 SHOWSB:1
@@ -30,12 +31,12 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:347.00000
+DisplayRotation:346.50000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:0.372928:6.700213:0.387030:6.725793
 PLUGIN:Ground Radar plugin:AirportElevation:33
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FPST
+PLUGIN:TopSky plugin:HideMapData:FCCC
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:TopSky plugin:ShowMapData:FPST
-PLUGIN:TopSky plugin:HideMapData:FCCC
