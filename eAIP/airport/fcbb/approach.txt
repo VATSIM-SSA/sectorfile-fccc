@@ -76,8 +76,9 @@
 | ::: | RNP | Climb on runway axis. At MATF "BB502", turn left direct to DIPVA at 4 000 ft QNH. | DIPVA | - |
 | ::: | VOR DME Y | Follow Rm 051°. At 4.0 NM BZ climbing to 4500ft, turn left direct to BZ. | BZ | - |
 | ::: | VOR DME Z | Follow Rm 051° . At 4.0 NM BZ climbing to 4500 ft, turn left and intercept BZ 275° radial until established on 12.0 NM DME arc. | PONUS | - |
-| 24 | RNP | Proceed direct IBRAT climbing to FL100. Passing 9100ft or IBRAT, turn left direct to TV VOR and hold, or as directed. | ::: | - |
-| ::: | VOR DME | Climb on R-233 NV to 6000ft or D3.4, then turn left climbing to 9000ft to TV VOR and hold, or as directed. | ::: | - |
+| 23 | RNP | Climb on runway axis. At MATF "BB504", turn right direct to BILEV at 4 000 ft QNH. | BILEV | - |
+| ::: | VOR DME Y | Follow Rm 231°. At 5.0 NM BZ climbing to 4500ft, turn right direct to BZ. | BZ | - |
+| ::: | VOR DME Z | Follow Rm 231°, at 5.0 NM BZ climbing to 4500ft, turn right and intercept BZ 342° radial until established on 12 NM DME arc. | UBALA | - |
 
 
 ==== MSA and MRVA ====
