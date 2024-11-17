@@ -84,10 +84,10 @@
 ==== MSA and MRVA ====
 
 ^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
-| NV | 0 nm  | 25 nm | 090º | 180º | 9600 ft | - |
-| ::: | 0 nm  | 25 nm | 180º | 270º | 8100 ft | - |
-| ::: | 0 nm  | 25 nm | 270º | 360º | 8000 ft | - |
-| ::: | 0 nm  | 25 nm | 360º | 090º | 9100 ft | - |
+| BZ | 0 nm  | 25 nm | 090º | 180º | 4500 ft | - |
+| ::: | 0 nm  | 25 nm | 180º | 270º | 4500 ft | - |
+| ::: | 0 nm  | 25 nm | 270º | 360º | 4500 ft | - |
+| ::: | 0 nm  | 25 nm | 360º | 090º | 4500 ft | - |
 
 
 ==== Diversions ====
