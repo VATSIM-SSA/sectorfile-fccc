@@ -99,4 +99,4 @@
 | HKEL | Eldoret International Airport | 167nm | 3475m | - |
 | HTKJ | Kilimanjaro International Airport | 145nm | 3600m | - |
 
-{{page>hk-footer#HKJK}}
+{{page>hk-footer#FCBB}}
