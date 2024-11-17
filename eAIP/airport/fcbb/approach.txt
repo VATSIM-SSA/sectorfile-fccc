@@ -59,20 +59,23 @@
 ==== Holds ====
 
 ^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
-| GV | ILS / RNP | FL100 | 230 KT | 106º | Right | RWY06 |
-| ::: | ILS W | ::: | ::: | 129º | ::: | ::: |
-| NV | - | FL100 | ::: | 233º | Right |  - |
-| STONY | - | 9000ft | 230 KT | 287º | Left | - |
+| DIPVA | ILS X | 4000ft | 230 KT | 141º | Left | RW05 |
+| ::: | RNP | ::: | ::: | ::: | ::: | ::: |
+| PONUS | ILS Z | 4500ft | ::: | 081º | ::: | ::: |
+| ::: | VOR Z | ::: | ::: | ::: | ::: | ::: |
+| BILEV | RNP | 4000ft | ::: | 141º | ::: | RW23 |
+| UBALA | VOR Z | 4500ft | ::: | 176º | Right | ::: |
+| BZ | - | 4500ft | ::: | 249º | Right |  - |
 
 ==== Missed Approach Procedures ====
 
 ^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
-| 06    | ILS | Climb on Runway Heading to 6000ft or NV VOR, then turn right climbing to 9000ft to the TV VOR and hold, or as directed. | STONY | - |
-| ::: | ILS W | ::: | ::: | - |
-| ::: | ILS Y | ::: | ::: | - |
-| ::: | ILS Z | ::: | ::: | - |
-| ::: | RNP | Proceed direct APDUS climbing to FL100. Passing 8100ft or APDUS, turn right direct to TV VOR and hold, or as directed. | ::: | - |
-| ::: | VOR DME | Climb on Runway Heading to 6000ft or NV VOR, then turn right climbing to 9000ft to the TV VOR and hold, or as directed. | ::: | - |
+| 05    | ILS X | Climb on runway axis. At MATF "BB502", turn left direct to DIPVA at 4 000 ft QNH. | DIPVA | - |
+| ::: | ILS Y | Climb straight ahead , at 4.4 NM IBV (4.0 NM BZ) climbing to 4500 ft, turn left direct to BZ. | BZ | - |
+| ::: | ILS Z | Climb straight ahead to 4 500 ft . At 4.4 NM IBV (4.0 NM BZ), turn left and intercept BZ 275° radial until established on 12.0NM DME arc. | PONUS | - |
+| ::: | RNP | Climb on runway axis. At MATF "BB502", turn left direct to DIPVA at 4 000 ft QNH. | DIPVA | - |
+| ::: | VOR DME Y | Follow Rm 051°. At 4.0 NM BZ climbing to 4500ft, turn left direct to BZ. | BZ | - |
+| ::: | VOR DME Z | Follow Rm 051° . At 4.0 NM BZ climbing to 4500 ft, turn left and intercept BZ 275° radial until established on 12.0 NM DME arc. | PONUS | - |
 | 24 | RNP | Proceed direct IBRAT climbing to FL100. Passing 9100ft or IBRAT, turn left direct to TV VOR and hold, or as directed. | ::: | - |
 | ::: | VOR DME | Climb on R-233 NV to 6000ft or D3.4, then turn left climbing to 9000ft to TV VOR and hold, or as directed. | ::: | - |
 
