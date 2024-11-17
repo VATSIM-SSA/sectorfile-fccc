@@ -46,12 +46,12 @@
 ==== Approach Procedures ====
 
 ^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
-| 06 | ILS | 110.30 NL | 053º | 3.00º | 5.4 DME NL | 7100 ft | - |
-| ::: | ILS W | 110.30 NL | 053º | 3.00º | 11.9 DME NL | 9100ft | - |
-| ::: | ILS Y | 110.30 NL | 053º | 3.00º | 9.4 DME NL | 8300ft | - |
-| ::: | ILS Z | 110.30 NL | 053º | 3.00º | 6.9 DME NL | 7500ft | - |
-| ::: | RNP | - | 053º | 3.00º | APNOM, IBRAT or NESOD | 7900ft | - |
-| ::: | VOR DME | 113.10 NV | 053º | 3.00º | 12 DME NV | 8300ft | - |
+| 05 | ILS X | 111.70 IBV | 051º | 3.00º | 11.0 DME INV | 3000 ft | - |
+| ::: | ILS Y | 111.70 IBV | 051º | 3.00º | BZ | 3000ft | - |
+| ::: | ILS Z | 111.70 IBV | 051º | 3.00º | 12 DME BZ  | 3000ft | 113.10 BZ |
+| ::: | RNP | - | 051º | 3.00º | DIPVA, NAPUX or TANNIS | 3000ft | - |
+| ::: | VOR DME Y | 113.10 BZ | 051º | 3.00º | BZ | 3000ft | 113.10 BZ |
+| ::: | VOR DME Z | 113.10 BZ | 051º | 3.00º | 12 DME IBZ | 3000ft | 113.10 BZ |
 | 24 | RNP | - | 233º | 3.00º | APDUS, ATUDU, AVENA | 8100ft | - |
 | ::: | VOR DME | 113.10 NV | 233º | 3.00º | 8 DME NV | 8080ft | - |
 
