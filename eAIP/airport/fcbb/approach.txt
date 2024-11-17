@@ -51,9 +51,10 @@
 | ::: | ILS Z | 111.70 IBV | 051º | 3.00º | 12 DME BZ  | 3000ft | 113.10 BZ |
 | ::: | RNP | - | 051º | 3.00º | DIPVA, NAPUX or TANNIS | 3000ft | - |
 | ::: | VOR DME Y | 113.10 BZ | 051º | 3.00º | BZ | 3000ft | 113.10 BZ |
-| ::: | VOR DME Z | 113.10 BZ | 051º | 3.00º | 12 DME IBZ | 3000ft | 113.10 BZ |
-| 24 | RNP | - | 233º | 3.00º | APDUS, ATUDU, AVENA | 8100ft | - |
-| ::: | VOR DME | 113.10 NV | 233º | 3.00º | 8 DME NV | 8080ft | - |
+| ::: | VOR DME Z | 113.10 BZ | 051º | 3.00º | 12 DME BZ | 3000ft | 113.10 BZ |
+| 23 | RNP | - | 051º | 3.00º | BILEV, RASKUK or GUGUS | 3000ft | - |
+| ::: | VOR DME Y | 113.10 BZ | 051º | 3.00º | BZ | 3000ft | 113.10 BZ |
+| ::: | VOR DME Z | 113.10 BZ | 051º | 3.00º | 12 DME BZ | 3000ft | 113.10 BZ |
 
 ==== Holds ====
 
