@@ -93,10 +93,8 @@
 ==== Diversions ====
 
 ^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
-| HKNW | Wilson Airport | 8 nm | 1560m | - |
-| HKMO | Moi International Airport | 262nm | 3350m | - |
-| HKKI | Kisumu International Airport | 174nm | 3300m | - |
-| HKEL | Eldoret International Airport | 167nm | 3475m | - |
-| HTKJ | Kilimanjaro International Airport | 145nm | 3600m | - |
-
+| FNLU | Quatro de Fevereiro International Airport | 300nm | 3716m | - |
+| FCPP | Antonio-Agostinho-Neto International Airport  | 204nm | 2600m | - |
+| FNBJ | Dr. Antonio Agostinho Neto International Airport | 302nm* | 4000m | - |
+| FZAA | N'Djili International Airport | 167nm | 4700m | - |
 {{page>hk-footer#FCBB}}
