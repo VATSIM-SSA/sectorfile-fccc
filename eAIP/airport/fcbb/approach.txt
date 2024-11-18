@@ -97,4 +97,4 @@
 | FCPP | Antonio-Agostinho-Neto International Airport  | 204nm | 2600m | - |
 | FNBJ | Dr. Antonio Agostinho Neto International Airport | 302nm* | 4000m | - |
 | FZAA | N'Djili International Airport | 167nm | 4700m | - |
-{{page>hk-footer#FCBB}}
+{{page>fc-footer#FCBB}}

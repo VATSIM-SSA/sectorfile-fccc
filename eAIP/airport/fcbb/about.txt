@@ -42,4 +42,4 @@ Maya–Maya Airport (IATA: BZV, ICAO: FCBB) is the international airport of Braz
 | Nairobi FIR/UIR     | A     | FCCC_CTR | FL245 - UNL    | - |
 
 
-{{page>hk-footer#FCBB}}
+{{page>fc-footer#FCBB}}
