@@ -16,6 +16,7 @@ The following charts are sourced from the ASECNA public AIP.
 | APDC-DATA | ::: | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-APDC-DATA.pdf|Chart]] | - |
 | SID | KSA3A | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-STAR-VORDME05.pdf|Chart]] | Departures appear in pink color on STAR chart |
 | ::: | KSA4B | ::: | ::: |
+| ::: | BZ4A | ::: | ::: |
 | STAR | RWY 05 | ::: | - |
 | ::: | RWY 23(RNAV) | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-STAR-RNAV23.pdf|Chart]] | - |
 | ::: | RWY 23(VOR) | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-STAR-VORDME23.pdf|Chart]] | - |
