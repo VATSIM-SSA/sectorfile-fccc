@@ -1,0 +1,27 @@
+===== FCBB Ground =====
+
+==== Latest Updates ====
+
+==== Taxi Procedures ====
+
+=== Phraseology ===
+
+<code>
+CALLSIGN, push-back approved, facing DIRECTION.
+</code>
+
+^ Apron     ^ Type              ^ Facing  ^ Remarks ^
+| Commercial Apron   | Main Terminal / Remote  | South-West or North-East       | - |
+| Air Congo Apron | Airline | North | Air Congo Only |
+| Air Afrique  Apron | ::: | ::: | Air Afrique Only |
+| Presedential Apron | VIP | North-West | - |
+| GA Apron  | General Aviation     | South-West        | Only start-up will be needed in most cases. |
+
+=== Apron 1 Stand Allocation ===
+  * Pilots may request to choose a different stand at their discretion.
+  * If preferred stand is occupied, then redirect aircraft to a stand in the same terminal.
+
+^ Terminal ^ Stands ^
+| Main Terminal | 4A-9 |
+
+{{page>fc-footer#FCBB}}
