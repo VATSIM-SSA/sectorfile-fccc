@@ -1,0 +1,6 @@
+===== FCBB | Maya-Maya | Brazzaville, Congo =====
+
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
+
+----
+[[country:congo:home|Congo]] (FC) Airports | [[airport:fcbb:country|FCBB]]

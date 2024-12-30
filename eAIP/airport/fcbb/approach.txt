@@ -1,0 +1,101 @@
+===== FCBB Approach =====
+
+==== Arrivals Procedures ====
+
+^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach ^ ILS Transition ^ Remarks ^
+| 05    | LIKEL | LIKEL2V    | Conventional  | 24.8 nm         | ILS Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | LIKEL1P | ::: | 38.6nm | ILS Z / 12DME BZ via PONUS | PONUS | ::: |
+| ::: | MENAT | MENAT2V | ::: | 24.8nm | ILS Y / VOR/DME via BZ | BZ | ::: |
+| ::: | ::: | MENAT1P | ::: | 35.2nm | ILS Z / 12DME BZ via PONUS | PONUS | ::: |
+| ::: | NAMOT | NAMOT2V | ::: | 24.7nm | ILS Y / VOR/DME via BZ | BZ | ::: |
+| ::: | ::: | NAMOT1P | ::: | 32.4nm | ILS Z / 12DME BZ via PONUS | PONUS | ::: |
+| ::: | ORDAB | ORDAB2V | ::: | 24.7nm | ILS Y / VOR/DME via BZ | BZ | ::: |
+| ::: | ::: | ORDAB1P | ::: | 26.7nm | ILS Z / 12DME BZ via PONUS | PONUS | ::: |
+| ::: | POGLO | POGLO2V | ::: | 24.8nm | ILS Y / VOR/DME via BZ | BZ | ::: |
+| ::: | ::: | POGLO1P | ::: | 23.5nm | ILS Z / 12DME BZ via PONUS | PONUS | ::: |
+| ::: | RAKON | RAKON2V | ::: | 24.9nm | ILS Y / VOR/DME via BZ | BZ | ::: |
+| ::: | ::: | RAKON1P | ::: | 15.2nm | ILS Z / 12DME BZ via PONUS | PONUS | ::: |
+| ::: | SEMOT | SEMOT2V | ::: | 25nm | ILS Y / VOR/DME via BZ | BZ | ::: |
+| ::: | ::: | SEMOT1T | ::: | 13.2nm | ILS Z / 12DME BZ via PONUS | PONUS | ::: |
+| ::: | RAPUT | RAPUT3V | ::: | 22nm | ILS Y / VOR/DME via BZ | BZ | ::: |
+| ::: | ::: | RAPUT1L | ::: | 17.7nm | ILS Z / 12DME BZ via LINOS | LINOS | ::: |
+| ::: | KSA | KSA3V | ::: | 13.7nm | ILS Y / VOR/DME via BZ | BZ | 113.1 BZ, 115.0 KSA |
+| ::: | ::: | KSA3L | ::: | 16.3nm | ILS Z / LINOS | LINOS | 115.0 KSA |
+| 23    | LIKEL | LIKEL2V    | :::  | 24.8 nm         | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | LIKEL1U    | :::  | 18.8nm | RNP / 12DME BZ via UBALA | UBALA | ::: |
+| ::: | ::: | LIKEL1M    | :::  | 17nm | RNP / 12DME BZ LR 045 | BZ | LR 045 / GUGUS, 113.1 BZ |
+| ::: | MENAT | MENAT2V | ::: | 24.8nm | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | MENAT1U | ::: | 15.4nm | RNP / 12DME BZ via UBALA | UBALA | ::: |
+| ::: | ::: | MENAT1M | ::: | 20.3nm | RNP / 12DME BZ LR 045 | GUGUS | LR 045 / GUGUS, 113.1 BZ |
+| ::: | NAMOT | NAMOT2V | ::: | 24.7m | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | NAMOT1M | ::: | 23nm | RNP / 12DME BZ LR 045 | GUGUS | LR 045 / GUGUS, 113.1 BZ |
+| ::: | ORDAB | ORDAB2V | ::: | 24.7nm | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | ORDAB1U | ::: | 28.6nm | RNP / 12DME BZ LR 045 | GUGUS | LR 045 / GUGUS, 113.1 BZ |
+| ::: | POGLO | POGLO2V | ::: | 24.8nm | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | POGLO1U | ::: | 32.1nm | RNP / 12DME BZ LR 045 | GUGUS | LR 045 / GUGUS, 113.1 BZ |
+| ::: | RAKON | RAKON2V | ::: | 24.9nm | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | RAKON1U | ::: | 40.5nm | RNP / 12DME BZ LR 045 | GUGUS | LR 045 / GUGUS, 113.1 BZ |
+| ::: | SEMOT | SEMOT2V | ::: | 25nm | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | SEMOT1U | ::: | 42.7nm | RNP / 12DME BZ LR 045 | GUGUS | LR 045 / GUGUS, 113.1 BZ |
+| ::: | RAPUT | RAPUT3V | ::: | 22nm | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | KSA | KSA3V | ::: | 13.7nm | VOR Y / VOR/DME via BZ | BZ | 113.1 BZ |
+| ::: | ::: | KSA1A | ::: | 14.6nm | RNP / 12DME BZ LR 067 | APTON | LR 067 / GUGUS, 113.1 BZ |
+| ::: | KIRGA | KIRGA1M | ::: | 13.5nm | VOR Z / RNAV VIA MONEK | MONEK | 113.1 BZ |
+| ::: | IKROS | IKROS1A | ::: | 12.8nm | VOR Z / RNAV VIA APTON | APTON | 113.1 BZ |
+
+==== Approach Procedures ====
+
+^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 05 | ILS X | 111.70 IBV | 051º | 3.00º | 11.0 DME INV | 3000 ft | - |
+| ::: | ILS Y | 111.70 IBV | 051º | 3.00º | BZ | 3000ft | - |
+| ::: | ILS Z | 111.70 IBV | 051º | 3.00º | 12 DME BZ  | 3000ft | 113.10 BZ |
+| ::: | RNP | - | 051º | 3.00º | DIPVA, NAPUX or TANNIS | 3000ft | - |
+| ::: | VOR DME Y | 113.10 BZ | 051º | 3.00º | BZ | 3000ft | 113.10 BZ |
+| ::: | VOR DME Z | 113.10 BZ | 051º | 3.00º | 12 DME BZ | 3000ft | 113.10 BZ |
+| 23 | RNP | - | 051º | 3.00º | BILEV, RASKUK or GUGUS | 3000ft | - |
+| ::: | VOR DME Y | 113.10 BZ | 051º | 3.00º | BZ | 3000ft | 113.10 BZ |
+| ::: | VOR DME Z | 113.10 BZ | 051º | 3.00º | 12 DME BZ | 3000ft | 113.10 BZ |
+
+==== Holds ====
+
+^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
+| DIPVA | ILS X | 4000ft | 230 KT | 141º | Left | RW05 |
+| ::: | RNP | ::: | ::: | ::: | ::: | ::: |
+| PONUS | ILS Z | 4500ft | ::: | 081º | ::: | ::: |
+| ::: | VOR Z | ::: | ::: | ::: | ::: | ::: |
+| BILEV | RNP | 4000ft | ::: | 141º | ::: | RW23 |
+| UBALA | VOR Z | 4500ft | ::: | 176º | Right | ::: |
+| BZ | - | 4500ft | ::: | 249º | Right |  - |
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 05    | ILS X | Climb on runway axis. At MATF "BB502", turn left direct to DIPVA at 4 000 ft QNH. | DIPVA | - |
+| ::: | ILS Y | Climb straight ahead , at 4.4 NM IBV (4.0 NM BZ) climbing to 4500 ft, turn left direct to BZ. | BZ | - |
+| ::: | ILS Z | Climb straight ahead to 4 500 ft . At 4.4 NM IBV (4.0 NM BZ), turn left and intercept BZ 275° radial until established on 12.0NM DME arc. | PONUS | - |
+| ::: | RNP | Climb on runway axis. At MATF "BB502", turn left direct to DIPVA at 4 000 ft QNH. | DIPVA | - |
+| ::: | VOR DME Y | Follow Rm 051°. At 4.0 NM BZ climbing to 4500ft, turn left direct to BZ. | BZ | - |
+| ::: | VOR DME Z | Follow Rm 051° . At 4.0 NM BZ climbing to 4500 ft, turn left and intercept BZ 275° radial until established on 12.0 NM DME arc. | PONUS | - |
+| 23 | RNP | Climb on runway axis. At MATF "BB504", turn right direct to BILEV at 4 000 ft QNH. | BILEV | - |
+| ::: | VOR DME Y | Follow Rm 231°. At 5.0 NM BZ climbing to 4500ft, turn right direct to BZ. | BZ | - |
+| ::: | VOR DME Z | Follow Rm 231°, at 5.0 NM BZ climbing to 4500ft, turn right and intercept BZ 342° radial until established on 12 NM DME arc. | UBALA | - |
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| BZ | 0 nm  | 25 nm | 090º | 180º | 4500 ft | - |
+| ::: | 0 nm  | 25 nm | 180º | 270º | 4500 ft | - |
+| ::: | 0 nm  | 25 nm | 270º | 360º | 4500 ft | - |
+| ::: | 0 nm  | 25 nm | 360º | 090º | 4500 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| FNLU | Quatro de Fevereiro International Airport | 300nm | 3716m | - |
+| FCPP | Antonio-Agostinho-Neto International Airport  | 204nm | 2600m | - |
+| FNBJ | Dr. Antonio Agostinho Neto International Airport | 302nm* | 4000m | - |
+| FZAA | N'Djili International Airport | 167nm | 4700m | - |
+
+{{page>fc-footer#FCBB}}

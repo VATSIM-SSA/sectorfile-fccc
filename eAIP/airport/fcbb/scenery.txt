@@ -1,0 +1,9 @@
+===== FCBB Scenery =====
+
+^ Platform ^ Type       ^ Developer ^ Link ^ Remarks ^
+| XP11      | Freeware  | jazzy1   | [[https://forums.x-plane.org/index.php?/files/file/18045-fcbb-maya-maya-international-airport/|Scenery]] | - |
+| P3D       | Payware   | FSXCENERY       | [[https://secure.simmarket.com/fsxcenery-fcbb-maya-maya-brazzaville-fsx-p3d.phtml|Scenery]] | - |
+| MSFS 2020 | Payware   | :::       | [[https://secure.simmarket.com/fsxcenery-fcbb-maya-maya-brazzaville-msfs.phtml|Scenery]] | - |
+
+
+{{page>fc-footer#FCBB}}

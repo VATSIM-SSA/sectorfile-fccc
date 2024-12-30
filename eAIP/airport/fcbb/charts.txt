@@ -1,0 +1,40 @@
+===== FCBB Charts =====
+
+The following charts are sourced from the ASECNA public AIP.
+
+^ Code ^ Description                           ^ URL ^ Remarks ^
+| ARC   | Terminal Control Area(TMA)                      | [[https://aim.asecna.aero/html/eAIP/cartes/05AD2-FCBB-ARC.pdf|Chart]] | - |
+| AOC | Aerodrome Obstacle Chart | [[https://aim.asecna.aero/html/eAIP/cartes/ad-2/ad2-24/05/05AD2-FCBB-AOC.pdf|Chart]] | - |
+| CVFR-01 | Cheminements VFR | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-CVFR-01.pdf|Chart]] | - |
+| CVFR-02 | ::: | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-CVFR-02.pdf|Chart]] | - |
+| ILC | Instrument Landing Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-ILC.pdf|Chart]] | - |
+| RMAC | ATC Surveillance Minimum Altitude Chart | [[https://aim.asecna.aero/html/eAIP/cartes/05AD2-FCBB-RMAC.pdf|Chart]] | - |
+| RMAC-DATA | ::: | [[https://aim.asecna.aero/html/eAIP/cartes/05AD2-FCBB-RMAC-DATA.pdf|Chart]] | - |
+| VLC | Visual Landing Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-VLC.pdf|Chart]] | - |
+| ADC | Aerodrome Chart | [[https://aim.asecna.aero/html/eAIP/cartes/ad-2/ad2-24/05/05AD2-FCBB-ADC.pdf|Chart]] | - |
+| APDC | Aircraft Parking and Docking Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-APDC-01.pdf|Chart]] | - |
+| APDC-DATA | ::: | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-APDC-DATA.pdf|Chart]] | - |
+| SID | KSA3A | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-STAR-VORDME05.pdf|Chart]] | Departures appear in pink color on STAR chart |
+| ::: | KSA4B | ::: | ::: |
+| ::: | BZ4A | ::: | ::: |
+| STAR | RWY 05 | ::: | - |
+| ::: | RWY 23(RNAV) | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-STAR-RNAV23.pdf|Chart]] | - |
+| ::: | RWY 23(VOR) | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-STAR-VORDME23.pdf|Chart]] | - |
+| IAC | ILS X or LOC X - RWY 05 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-ILSX05.pdf|Chart]] | - |
+| ::: | ::: | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-ILSX05-DATA.pdf|Chart]] | - |
+| ::: | ILS Y or LOC Y - RWY 05 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-ILSY05.pdf|Chart]] | - |
+| ::: | ILS Z or LOC Z - RWY 05 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-ILSZ05.pdf|Chart]] | - |
+| ::: | RNP RWY 05 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-RNP05.pdf|Chart]] | - |
+| ::: | ::: | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-RNP05-DATA.pdf|Chart]] | - |
+| ::: | VOR Y RWY 05 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-VORY05.pdf|Chart]] | - |
+| ::: | VOR Z RWY 05 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-VORZ05.pdf|Chart]] | - |
+| ::: | RNP RWY 23 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-RNP23.pdf|Chart]] | - |
+| ::: | ::: | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-RNP23-DATA.pdf|Chart]] | - |
+| ::: | VOR Y RWY 23 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-VORY23.pdf|Chart]] | - |
+| ::: | VOR Z RWY 23 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-IAC-VORZ23.pdf|Chart]]  | - |
+| VAC | Visual Approach Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-VAC.pdf|Chart]] | - |
+| ::: | Liaisons VFR entre Brazzaville et Kinshasa | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/congo/Brazzaville%20-%20Maya-Maya/05AD2-FCBB-VAC-FZAA.pdf|Chart]] | - |
+
+The complete set of FCBB Official Charts can be found [[https://aim.asecna.aero/html/eAIP/FR-_05AD-2.ATLAS.FCBB-fr-FR.html#_05AD-2.ATLAS.FCBB|here]].
+
+{{page>fc-footer#FCBB}}

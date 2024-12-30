@@ -24,6 +24,123 @@ GROUP:SkyTeam:ARG:AMX:AEA:AFR:CAL:CKK:CES:CSN:CUA:CSA:DAL:ETD:GIA:GOL:ITY:KQA:KL
 GROUP:Charter:TOM
 GROUP:Cargo:BOX:CAO:GEC
 
+// ##################################################################
+//                 FC CONGO
+// ##################################################################
+
+// ##################################################################
+//                 FCBB Brazzaville
+// ##################################################################
+
+// FCBB Stands
+// Stand Presendential
+STAND:FCBB:Presendential:S004.14.57.125:E015.15.40.481:30
+WTC:LMH
+USE:P
+AREA
+
+// Stand GA
+STAND:FCBB:GA:S004.14.49.536:E015.15.44.676:30
+WTC:L
+USE:P
+AREA
+
+// Stand Air Congo
+STAND:FCBB:Air Congo:S004.15.41.714:E015.14.48.295:30
+WTC:LM
+USE:ABCP
+AREA
+
+// Stand Air Afrique
+STAND:FCBB:Air Afrique:S004.15.46.139:E015.14.42.514:30
+WTC:LMH
+USE:ABCP
+AREA
+
+// Stand 9
+STAND:FCBB:9:S004.15.30.722:E015.15.0.090:30
+WTC:MH
+USE:ABC
+
+// Stand 8
+STAND:FCBB:8:S004.15.29.775:E015.15.1.045:30
+WTC:MH
+USE:ABC
+
+// Stand 7
+STAND:FCBB:7:S004.15.28.941:E015.15.2.483:30
+WTC:MH
+USE:ABC
+
+// Stand 6
+STAND:FCBB:6:S004.15.27.243:E015.15.3.890:30
+WTC:MH
+USE:ABC
+
+// Stand 5
+STAND:FCBB:5:S004.15.27.418:E015.15.5.401:30
+WTC:MH
+USE:ABC
+
+// Stand 4B
+STAND:FCBB:4B:S004.15.25.140:E015.15.6.178:30
+WTC:MH
+USE:ABC
+
+// Stand 4
+STAND:FCBB:4:S004.15.24.911:E015.15.7.226:30
+WTC:MH
+USE:ABC
+
+// Stand 4A
+STAND:FCBB:4A:S004.15.24.340:E015.15.7.519:30
+WTC:M
+USE:ABC
+
+// Stand 3
+STAND:FCBB:3:S004.15.23.179:E015.15.9.591:30
+WTC:MH
+USE:ABC
+
+// Stand 2
+STAND:FCBB:2:S004.15.21.544:E015.15.11.034:30
+WTC:MH
+USE:ABC
+
+// Stand 1F
+STAND:FCBB:1F:S004.15.16.540:E015.15.12.887:30
+WTC:LM
+USE:ABCP
+
+// Stand 1E
+STAND:FCBB:1E:S004.15.17.458:E015.15.13.771:30
+WTC:LM
+USE:ABCP
+
+// Stand 1C
+STAND:FCBB:1C:S004.15.18.057:E015.15.14.266:30
+WTC:LM
+USE:ABCP
+
+// Stand 1A
+STAND:FCBB:1A:S004.15.18.652:E015.15.14.782:30
+WTC:LM
+USE:ABCP
+
+// Stand 1B
+STAND:FCBB:1B:S004.15.20.868:E015.15.11.936:30
+WTC:LM
+USE:ABCP
+
+// Stand 1D
+STAND:FCBB:1D:S004.15.19.630:E015.15.10.961:30
+WTC:LM
+USE:ABCP
+
+// Stand 1G
+STAND:FCBB:1G:S004.15.18.684:E015.15.10.076:30
+WTC:LM
+USE:ABCP
 
 // ##################################################################
 //                 FK CAMEROON

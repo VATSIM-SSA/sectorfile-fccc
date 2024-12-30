@@ -1,0 +1,45 @@
+===== FCBB About =====
+
+Maya–Maya Airport (IATA: BZV, ICAO: FCBB) is the international airport of Brazzaville, the capital of the Republic of Congo.
+
+==== Aerodrome Data ====
+
+| ICAO                  | FCBB |
+| IATA                  | BZV |
+| Elevation             | 1048ft |
+| Transition Altitude   | 4500 ft |
+| Transition Level      | by ATC |
+| Mag Variation         | 2º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Maya-Maya_Airport&params=04_15_06_S_15_15_11_E_type:airport_region:CD]] |
+| Site | [[https://www.brazzaville-airport.com]] |
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 05 | 052º | 3300 | 3400 | 3360 | 3300 | - |
+| 23 | 232º | 3300 | 3600 | 3360 | 3300 | - |
+
+
+==== Aprons ====
+
+^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
+| Commercial Apron   | Main Terminal / Remote  | Twys F, E         | - |
+| General Aviation  | General Aviation     | Twy D        | - |
+
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| FCBB_TWR  | Brazzaville Tower       | 118.700   | - |
+| FCBB_APP  | Brazzaville Approach | 121.100 | - |
+| FCCC_CTR  | Brazzaville Control     | 128.900 / 127.100 | - |
+
+==== Airspace ====
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Brazzaville  CTR   | D     | FCBB_TWR | GND - 3000 | - |
+| Brazzaville TMA   | D     | - | A030 - FL145  | - |
+| Brazzaville TMA   | A     | FCBB_APP | FL145 - FL245  | - |
+| Nairobi FIR/UIR     | A     | FCCC_CTR | FL245 - UNL    | - |
+
+
+{{page>fc-footer#FCBB}}
