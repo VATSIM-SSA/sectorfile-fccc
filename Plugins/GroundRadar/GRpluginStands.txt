@@ -34,7 +34,7 @@ GROUP:Cargo:BOX:CAO:GEC
 
 // FCBB Stands
 // Stand Presendential
-STAND:FCBB:Presendential:S004.14.57.125:E015.15.40.481:30
+STAND:FCBB:Presidential:S004.14.57.125:E015.15.40.481:30
 WTC:LMH
 USE:P
 AREA
